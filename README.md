@@ -1,6 +1,6 @@
 # DynamicLearningPath
 
-> Historical graph-ordering experiment; **not a separate Builder resubmission**. Steward feedback found material architectural overlap with DynamicResearchCommons. The single replacement mechanism is [CompetencyEvidenceRouter](https://github.com/stoneforger10/competency-evidence-router), which routes learner state from independently fetched and semantically assessed rubric/work evidence rather than owner-controlled graph transitions. The Explorer links below prove only this historical contract.
+> Historical graph-ordering experiment; **not a separate Builder resubmission**. Its distinct successor is [CurriculumDriftSentinel](https://github.com/stoneforger10/curriculum-drift-sentinel), a permissionless, evidence-bound syllabus pause gate. The Explorer links below prove only this historical contract, not the successor.
 
 A catalog-bound learning-path scheduler for GenLayer. It evaluates whether an ordered course pathway obeys prerequisites stated in the referenced course descriptions. It does **not** grade learners, issue credentials, or certify educational quality.
 
